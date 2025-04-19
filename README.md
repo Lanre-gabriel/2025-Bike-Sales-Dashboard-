@@ -20,10 +20,10 @@ This repository contains an Excel dashboard that visualizes bike sales data for 
 - Slicers
 
 ## Notes:
-This dashboard highlights trends in -Bike purchases based on gender,
--Car Ownership,
--Age group, and
--Region.
+This dashboard highlights trends in - Bike purchases based on gender,
+- Car Ownership,
+- Age group,
+- Region.
 
 ## Key insights
 - Purchases are slightly more even across gender, slightly more males bought bikes as expected.
