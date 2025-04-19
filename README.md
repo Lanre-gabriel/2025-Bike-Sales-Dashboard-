@@ -1,5 +1,4 @@
 # 2025-Bike-Sales-Dashboard-
-Ms Excel Dashboard Analyzing Bike Sales Data in 2025
 This repository contains an Excel dashboard that visualizes bike sales data for 2025.
 
 ## KPI'S
@@ -10,7 +9,7 @@ This repository contains an Excel dashboard that visualizes bike sales data for 
 - **Average Income per Buyer**: $57,963
 
 ## Dashboard Preview:
-dashboard 5_083604.png
+![Bike Dashboard!](dashboard 5_083604.png)
 
 ## Tools Used:
 - Microsoft Excel
