@@ -10,7 +10,7 @@ This repository contains an Excel dashboard that visualizes bike sales data for 
 - **Average Income per Buyer**: $57,963
 
 ## Dashboard Preview:
-![Bike Sales Dashboard](dashboard-image.png)
+!(dashboard 5_083604.png)
 
 ## Tools Used:
 - Microsoft Excel
