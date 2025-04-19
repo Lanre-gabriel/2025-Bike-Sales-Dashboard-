@@ -9,15 +9,21 @@ This repository contains an Excel dashboard that visualizes bike sales data for 
 - **Average Income per Buyer**: $57,963
 
 ## Dashboard Preview:
-![Bike Dashboard!](dashboard 5_083604.png)
+![2025 Bike Sales Dashboard](dashboard 5_083604.png)
 
 ## Tools Used:
 - Microsoft Excel
 - Pivot Tables
-- Bar Charts, Pie Charts, Doughnut Charts,Lines Charts and Slicers
+- Bar Charts,
+- Pie Charts,
+- Lines Charts and
+- Slicers
 
 ## Notes:
-This dashboard highlights trends in bike purchases based on gender, car ownership, age group, and region.
+This dashboard highlights trends in -Bike purchases based on gender,
+-Car Ownership,
+-Age group, and
+-Region.
 
 ## Key insights
 - Purchases are slightly more even across gender, slightly more males bought bikes as expected.
