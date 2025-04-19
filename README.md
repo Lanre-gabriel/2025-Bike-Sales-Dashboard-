@@ -12,6 +12,7 @@ This repository contains an Excel dashboard that visualizes bike sales data for 
 ## Dashboard Preview:
 ![Bike Dashboard](dashboard 5_083604.png)
 
+
 ## Tools Used:
 - Microsoft Excel
 - Pivot Tables
