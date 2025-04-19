@@ -23,8 +23,9 @@ This repository contains an Excel dashboard that visualizes bike sales data for 
 This dashboard highlights trends in
 
 - Bike purchases based on gender,
-- Car Ownership,
-- Age group,
+- Age groups,
+- Car ownership,
+- Commute distance and
 - Region.
 
 ## Key insights
