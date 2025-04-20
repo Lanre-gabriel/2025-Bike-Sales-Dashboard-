@@ -30,12 +30,24 @@ This dashboard highlights trends in
 - Region.
 
 ## Key insights
-# Bike Purchase by Gender
+# Bike Purchases by Gender
 ![Bar chart](purchase_by_gender.png)
 - Purchases are slightly more even across gender, slightly more males bought bikes as expected.
+
+  # Bike purchases by Age Group
+  ![Dounghnut chart](Age_group.png)
 - Middle-aged group (35-54) are the biggest bike buyers, Youths and older adults are less likely to buy.
-- There is an inverse relationship between car ownership and Bike purchases i.e Fewer Cars = more bike purchases vice versa.(0-1) Car owners are more likely to buy bikes.
-- (0-1 miles) correlates with higher bike purchases,indicating that the shorter distances or people living closer to work are more likely to purchase bikes
+
+  # Bike purchases by Cars Ownership
+  ![Bar Chart](Cars_ownership.png)
+- There is an inverse relationship between car ownership and Bike purchases i.e Fewer Cars = more bike purchases and vice versa.(0-1) Car owners are more likely to buy bikes.
+
+# Bike Purchases by Commute Distance
+![Line chart](Commute_distance.png)
+- (0-1 miles) correlates with higher bike purchases,indicating that shorter distances and people living closer to work are more likely to purchase bikes.
+
+# Bike purchases by Region
+![pie chart](Region.png)
 - With 508 bike buyers, North America has the most buyers than Europe's (300) and pacific's (192) combine.
 
 
