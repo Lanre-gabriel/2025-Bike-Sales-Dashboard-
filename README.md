@@ -3,7 +3,7 @@ This is an Excel practice project after successfully completing the Excel segmen
 ![Excel logo](Excel.jpg)
 
 ## Aims and Objectives
-The aims and objectives of this project is not just to practice what was taught but also to answer more questions and curate a simple visualization anybody can understand.
+The aims and objectives of this project is not only to practice what was taught but also to answer more questions and curate a simple visualization anybody can understand.
 
 ## Excel Dataset
 ![Excel dataset](Excel_Project_Dataset.xlsx)
