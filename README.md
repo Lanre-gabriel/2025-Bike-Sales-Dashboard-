@@ -1,5 +1,6 @@
 # 2025-Bike-Sales-Dashboard-
 This repository contains an Excel dashboard that visualizes bike sales data for 2025.
+![Excel logo](Excel.jpg)
 
 ## KPI'S
 - **Total Customers**: 1000
