@@ -1,5 +1,5 @@
-# 2025-Bike-Sales-Dashboard-
-This repository contains an Excel dashboard that visualizes bike sales data for 2025.
+# 2025-Bike-Sales-Analysis-project
+This is an Excel practice project after successful completion of the @Alextheanalyst Excel for data analysis tutorial.
 ![Excel logo](Excel.jpg)
 
 ## KPI'S
