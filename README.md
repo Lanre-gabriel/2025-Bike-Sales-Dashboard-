@@ -1,5 +1,5 @@
 # 2025-Bike-Sales-Analysis-project
-This is an Excel practice project after successfully completing the Excel section from @AlexThAnalyst data analysis tutorial on YouTube.
+This is an Excel practice project after successfully completing the Excel section from. [visit @AlexTheAnalyst](@AlexTheAnalyst) data analysis tutorial on YouTube.
 ![Excel logo](Excel.jpg)
 
 ## KPI'S
