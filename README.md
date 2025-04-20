@@ -28,7 +28,7 @@ The aims and objectives of this project is not just to practice what was taught 
 - Lines Charts and
 - Slicers
 
-## Notes:
+## Key Notes:
 This dashboard highlights trends in
 
 - Bike purchases based on gender,
