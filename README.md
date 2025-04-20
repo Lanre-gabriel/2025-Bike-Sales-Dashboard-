@@ -30,6 +30,8 @@ This dashboard highlights trends in
 - Region.
 
 ## Key insights
+# Bike Purchase by Gender
+![Bar chart](purchase_by_gender.png)
 - Purchases are slightly more even across gender, slightly more males bought bikes as expected.
 - Middle-aged group (35-54) are the biggest bike buyers, Youths and older adults are less likely to buy.
 - There is an inverse relationship between car ownership and Bike purchases i.e Fewer Cars = more bike purchases vice versa.(0-1) Car owners are more likely to buy bikes.
