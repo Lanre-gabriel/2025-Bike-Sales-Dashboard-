@@ -3,10 +3,11 @@ This is an Excel practice project after successfully completing the Excel segmen
 ![Excel logo](Excel.jpg)
 
 ## Aims and Objectives
-The aims and objectives of this project is not just to practice what was thought but also to answer more questions and curating a simple visualization anybody can understand.
+The aims and objectives of this project is not just to practice what was taught but also to answer more questions and curate a simple visualization anybody can understand.
 
 ## Data Source
-Data was gotten from [](https://github.com/Ale...​)
+Data was gotten from [GitHub](https://github.com/Ale...​)
+
 
 ## KPI'S
 - **Total Customers**: 1000
