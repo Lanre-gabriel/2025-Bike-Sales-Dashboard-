@@ -5,8 +5,9 @@ This is an Excel practice project after successfully completing the Excel segmen
 ## Aims and Objectives
 The aims and objectives of this project is not just to practice what was taught but also to answer more questions and curate a simple visualization anybody can understand.
 
-## Data Source
-Data was gotten from [GitHub](https://github.com/Ale...​)
+## Excel Dataset
+![Excel dataset](Excel_Project_Dataset.xlsx)
+
 
 
 ## KPI'S
