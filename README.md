@@ -1,5 +1,5 @@
 # 2025-Bike-Sales-Analysis-project
-This is an Excel practice project after successfully completing the Excel segment from [@AlexTheAnalyst](@AlexTheAnalyst) data analysis tutorial on YouTube.
+This is an Excel practice project following completion of the Excel segment from [@AlexTheAnalyst](@AlexTheAnalyst) data analysis tutorial on YouTube.
 ![Excel logo](Excel.jpg)
 
 ## Aims and Objectives
@@ -57,5 +57,13 @@ This dashboard highlights trends in
 ### Bike purchases by Region
 ![pie chart](Region.png)
 - With 508 bike buyers, North America has the most buyers than Europe's (300) and pacific's (192) combine.
+
+## Conclusions and Recommendations
+- The Age group 35-54 is the main market for bike buyers must be the main focus while more encouragements via campaigns,adverts and awareness should be initiated to the younger buyers to  buy bike for fitness and  fun and to  the Older Adults to buy for health  and recreation.
+- The men should be targeted as they have higher purchasing rate and more likely to buy bikes, Women should be encouraged too.
+- Focus  marketing on households with 0-1 Car and individuals whose houses are closer to their work place,they are more likely to buy bikes.
+- promotions should be aggressive across Europe and the Pacific regions where sales are low to boost sales.
+
+
 
 
