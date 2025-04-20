@@ -2,6 +2,12 @@
 This is an Excel practice project after successfully completing the Excel segment from [@AlexTheAnalyst](@AlexTheAnalyst) data analysis tutorial on YouTube.
 ![Excel logo](Excel.jpg)
 
+## Aims and Objectives
+The aims and objectives of this project is not just to practice what was thought but also to answer more questions and curating a simple visualization anybody can understand.
+
+## Data Source
+Data was gotten from [](https://github.com/Ale...​)
+
 ## KPI'S
 - **Total Customers**: 1000
 - **Total Bike Sales**: 481
